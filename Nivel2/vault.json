@@ -1,0 +1,7 @@
+{
+    "information": {
+        "url": "https://robotsparebinindustries.com/#/robot-order",
+        "csv": "https://robotsparebinindustries.com/orders.csv",
+        "filter": "Filter Table By Column    ${table}    Order number    ==    1"
+    }
+}
